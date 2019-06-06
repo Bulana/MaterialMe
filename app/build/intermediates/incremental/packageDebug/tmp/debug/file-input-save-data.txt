@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Tue Jun 04 15:50:02 SAST 2019
+#Wed Jun 05 16:05:14 SAST 2019
 0.baseType=DIRECTORY
-0.base=/Users/bulana/MaterialMe-Starter/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.base=/Users/bulana/MaterialMe/app/build/intermediates/dex/debug/mergeDexDebug/out
 0.path=classes.dex
 0.set=DEX
 count=1

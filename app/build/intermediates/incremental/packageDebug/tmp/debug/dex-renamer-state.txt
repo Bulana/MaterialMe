@@ -1,4 +1,4 @@
-#Tue Jun 04 16:42:05 SAST 2019
-base.0=/Users/bulana/MaterialMe-Starter/app/build/intermediates/dex/debug/mergeDexDebug/out
+#Thu Jun 06 13:17:29 SAST 2019
+base.0=/Users/bulana/MaterialMe/app/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex

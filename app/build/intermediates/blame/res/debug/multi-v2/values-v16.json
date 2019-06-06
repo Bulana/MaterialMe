@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bulana/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/bulana/MaterialMe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/bulana/.gradle/caches/transforms-2/files-2.1/ed2680dbe3503438469d7336fb1bb21e/res/values-v16/values-v16.xml",
+                    "source": "/Users/bulana/.gradle/caches/transforms-2/files-2.1/6b7af17f60d733d9cfa9232269ab2a39/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bulana/.gradle/caches/transforms-2/files-2.1/fc1a03cb17b9fe48bacadf6f1e40a907/res/values-v16/values-v16.xml",
+                    "source": "/Users/bulana/.gradle/caches/transforms-2/files-2.1/843956b4da88bf63b930a4e01ed2ac05/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
